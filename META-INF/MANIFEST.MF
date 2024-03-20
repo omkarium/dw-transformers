@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Venkatesh Omkaram
+Main-Class: com.github.omkarium.transformers.DwMain
+

@@ -1,0 +1,3 @@
+output application/csv
+---
+payload
